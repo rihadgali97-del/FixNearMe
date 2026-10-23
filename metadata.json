@@ -1,0 +1,6 @@
+{
+  "name": "FixNearMe - Neighborhood Problem Reporting",
+  "description": "Civic reporting and resolution-tracking web application for neighborhood issues like potholes, streetlights, water leaks, and waste management in Bahir Dar.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
